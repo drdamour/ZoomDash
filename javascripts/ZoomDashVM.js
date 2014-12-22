@@ -3,15 +3,15 @@ function ZoomDashVM()
 	var self = this;
 
 	this.PanelConfigs = ko.observableArray([
-		new IFramePanel( "http://progressquest.com/pemptus.php?gid=18261" ),
-		new IFramePanel( "https://jira.balihoo.com:8443/secure/TaskBoard.jspa?selectedProjectId=10010&selectedBoardId=11430" ),
-		new IFramePanel( "http://batchmon.balihoo.local/jobmon/checkalljobs/" ),
-		new IFramePanel( "http://build.balihoo.local:8085/telemetry.action?filter=project&projectKey=MKTRDEVPORTALS" ),
-		new IFramePanel( "https://jira.balihoo.com:8443/secure/SetChartSelection.jspa?chartType=gh.chart.cfburndown&fieldId=customfield_10020&forMaster=false&type=CCB&selectedProjectId=10010&selectedBoardId=11430&issueDisplay=" ),
-		new IFramePanel( "http://build.balihoo.local:8085/telemetry.action?filter=project&projectKey=ETLDEV" ),
-		new IFramePanel( "http://progressquest.com/pemptus.php?gid=18261" ),
-		new IFramePanel( "http://build.balihoo.local:8085/telemetry.action?filter=project&projectKey=MKTRDEV" ),
-		new IFramePanel( "http://cdamour.devblog.balihoo.us" ),
+		new IFramePanel( "http://talkshowhost.net/" ),
+		new IFramePanel( "http://talkshowhost.net/" ),
+		new IFramePanel( "http://talkshowhost.net/" ),
+		new IFramePanel( "http://talkshowhost.net/" ),
+		new IFramePanel( "http://talkshowhost.net/" ),
+		new IFramePanel( "http://talkshowhost.net/" ),
+		new IFramePanel( "http://talkshowhost.net/" ),
+		new IFramePanel( "http://talkshowhost.net/" ),
+		new IFramePanel( "http://talkshowhost.net/" )
 	]);
 
 
