@@ -3,7 +3,7 @@ function ZoomDashVM()
 	var self = this;
 
 	this.PanelConfigs = ko.observableArray([
-		new IFramePanel( "http://talkshowhost.net/" ),
+		new IFramePanel( "frame1.html" ),
 		new IFramePanel( "http://talkshowhost.net/" ),
 		new IFramePanel( "http://talkshowhost.net/" ),
 		new IFramePanel( "http://talkshowhost.net/" ),
